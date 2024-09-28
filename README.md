@@ -1,4 +1,4 @@
-# EMF Detector Project (👻👻👻👻👻 Ghost Hunter 👻👻👻👻👻)
+# EMF Detector Project (👻👻👻 Ghost Hunter 👻👻👻)
 
 This project involves the design and construction of an Electromagnetic Field (EMF) Detector using various electronic components. The device aims to detect EMF levels and provide both a visual and numerical display of the detected values. It uses an ESP32-C6 microcontroller, a 4-digit 7-segment display, LEDs, and other components to create an affordable, portable EMF detection solution.
 
