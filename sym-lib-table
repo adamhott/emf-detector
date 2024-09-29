@@ -1,7 +1,7 @@
 (sym_lib_table
   (version 7)
   (lib (name "esp32-library")(type "KiCad")(uri "${KIPRJMOD}/esp32-library/symbols/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "emf-detector-library-1")(type "KiCad")(uri "${KIPRJMOD}/symbols/2024-09-29_06-01-06.kicad_sym")(options "")(descr ""))
-  (lib (name "emf-detector-library-2")(type "KiCad")(uri "${KIPRJMOD}/symbols/2024-09-29_06-37-32.kicad_sym")(options "")(descr ""))
-  (lib (name "emf-detector-library-3")(type "KiCad")(uri "${KIPRJMOD}/symbols/2024-09-29_07-04-33.kicad_sym")(options "")(descr ""))
+  (lib (name "emf-detector-library-4")(type "KiCad")(uri "${KIPRJMOD}/symbols/TDCR1060M.kicad_sym")(options "")(descr ""))
+  (lib (name "emf-detector-library-5")(type "KiCad")(uri "${KIPRJMOD}/symbols/DRV5053RAQLPG.kicad_sym")(options "")(descr ""))
+  (lib (name "emf-detector-library-6")(type "KiCad")(uri "${KIPRJMOD}/symbols/MAX7219CWG+T.kicad_sym")(options "")(descr ""))
 )
